@@ -1,3 +1,5 @@
+//authors: Faysal el Estwani, Maya Masri, Malek Ouaida
+
 #include <iostream>
 #include <fstream>
 #include <istream>
@@ -71,7 +73,7 @@ int main() {
         {
         case 1:
             // Displays the students who did not register yet
-            cout << "\nStudents that didn’t register yet:" << endl;
+            cout << "\nStudents that didnâ€™t register yet:" << endl;
             cout << nonRegisteredStudents;
             break;
         case 2:
