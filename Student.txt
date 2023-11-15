@@ -1,0 +1,11 @@
+10
+A2101324 Bilal Issa 3.5
+A2101444 John Dow 2.7
+A2201234 George Khoury 3.1
+A2201983 Nada Trabay 3.9
+A2210022 Carol Grall 3.2
+A2210210 Iman Abboud 2.7
+A2305234 Amir Hachem 2.3
+A2311067 Roula Hmade 1.9
+A2311200 Belle Grall 2.1
+A2312902 Ibrahim Mroueh 1.8

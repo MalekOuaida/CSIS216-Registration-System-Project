@@ -1,0 +1,7 @@
+6
+CSIS200 Introduction to programming 3 10
+CSIS205 Introduction to AI 3 10
+CSIS228 Web Programming 3 10
+ENGL101 English 6 25
+MATH210 Calculus I 3 5
+MATH350 Probability 3 10
