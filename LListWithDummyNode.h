@@ -1,3 +1,4 @@
+//author: Faysal el Estwani
 /*-- LListWithDummyNode.h --------------------------------------------------------------
 
   This header file defines the data type DeleteCourse for processing lists with a dummy
