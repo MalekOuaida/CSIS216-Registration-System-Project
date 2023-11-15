@@ -1,3 +1,4 @@
+//author: Maya Masri
 /*-- Course.h ----------------------------------------------------------------------
 
   This header file defines the data type Course for representing academic courses.
