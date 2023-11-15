@@ -1,3 +1,4 @@
+//author: Malek Ouaida
 /*-- DoublyLinkedList.h --------------------------------------------------------------
   Basic operations are:
      Constructor
