@@ -1,3 +1,4 @@
+//author: Faysal el Estwani
 #include "LListWithDummyNode.h"
 #include <iomanip>
 
