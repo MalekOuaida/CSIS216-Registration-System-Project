@@ -1,3 +1,4 @@
+//author: Maya Masri
 /*-- Course.cpp------------------------------------------------------------
 
    This file implements the Course member functions.
